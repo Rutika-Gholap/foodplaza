@@ -56,20 +56,20 @@ It includes **Admin** and **Customer** modules with functionalities like managin
 3. Create tables: `admin`, `customer`, `food`, `cart`, `orders`.
 4. Update **DBConnection.java** with your MySQL credentials:
 
-String url = "jdbc:mysql://localhost:3306/foodplaza_rutika";
-String user = "your-username";
+String url = "jdbc:mysql://localhost:3306/foodplaza_rutika";<br>
+String user = "your-username";<br>
 String password = "your-password";
 
 
 ## How to Run
 
-1.Open the project in Eclipse.
-2.Ensure MySQL server is running and the database is ready.
-3.Right-click AuthMain.java → Run As → Java Application.
+1.Open the project in Eclipse.<br>
+2.Ensure MySQL server is running and the database is ready.<br>
+3.Right-click AuthMain.java → Run As → Java Application.<br>
 4.Follow the console instructions to use Admin or Customer modules.
 
 ## Author
 
-Rutika Gholap
-Student at Yadavrao Tasgaonkar Institute of Engineering and Technology
+Rutika Gholap<br>
+Student at Yadavrao Tasgaonkar Institute of Engineering and Technology<br>
 Computer Engineering, 3rd Year
